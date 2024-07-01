@@ -10,3 +10,7 @@ represent a bulk conduction mechanism, current constriction at grain boundaries,
 and electronic conduction, enhanced at grain boundaries and surfaces. Selective ion-blocking
 at grain boundaries induces chemical polarization and an additional arc in
 the blocking electrode response.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
